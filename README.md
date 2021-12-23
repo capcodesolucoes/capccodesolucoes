@@ -11,3 +11,5 @@ Icones Contatos - https://www.flaticon.com/
 Meu Github: https://github.com/juniorcintra
 Github do Dayan: https://github.com/DayanMonteiro
 Grupo do DevFast: https://chat.whatsapp.com/HBziyiVqEZc...
+
+juniorcintra
